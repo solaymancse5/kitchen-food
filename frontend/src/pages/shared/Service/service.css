@@ -1,0 +1,30 @@
+@media screen and (min-width: 1200px) {
+	.card-box {
+		width: 380px;
+	}
+}
+@media screen and (max-width: 960px) {
+	.card-box {
+		width: 400px;
+	}
+}
+@media screen and (max-width: 800px) {
+	.card-box {
+		width: 300px;
+	}
+}
+@media screen and (max-width: 705px) {
+	.card-box {
+		width: 500px;
+	}
+}
+@media screen and (max-width: 530px) {
+	.card-box {
+		width: 350px;
+	}
+}
+@media screen and (max-width: 350px) {
+	.card-box {
+		width: 250px;
+	}
+}
